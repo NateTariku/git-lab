@@ -73,3 +73,69 @@ Untracked files:
   (use "git add <file>..." to include in what will be committed)
 
 	answers.md
+
+
+Answer 6.
+
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   README.md
+	new file:   answers.md
+
+Answer 7.
+On branch master
+nothing to commit, working tree clean
+
+Answer 8.
+
+commit 92a143c58cae9e82a744ee6cfaa39e4489e325bc (HEAD -> master)
+Author: Natnael Tariku <nt863818@ohio.edu>
+Date:   Wed Jan 23 19:33:54 2019 -0500
+
+    Initial commit
+
+
+Answer 9.
+
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+
+Answer 10
+No it didn't.
+
+Answer 11
+
+Username for 'https://github.com': nt863818@ohio.edu
+Password for 'https://nt863818@ohio.edu@github.com': 
+To https://github.com/NateTariku/git-lab.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/NateTariku/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details. 
+
+Answer 12
+Yes 
+
+ANswer 13
+
+.  ..  .git  .gitignore  README.md
+
+
+
